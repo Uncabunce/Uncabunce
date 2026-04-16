@@ -3,11 +3,9 @@
 ## Hi👋
 
 I'm a Software Engineer student.
-
 Trying to learn Unity/Unreal Engine so i don't feel unemployed.
 > Still stuck working on someone else project and can't do anything about it for now
 <img width="498" height="281" alt="oguri-cap-uma-musumeshock" src="https://github.com/user-attachments/assets/81c76573-4891-417c-a47b-4eee7886ed0f" />
-
 
 ## Techstack:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,7 +14,7 @@ Trying to learn Unity/Unreal Engine so i don't feel unemployed.
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ## Contact me:
-[![My Socials](https://skillicons.dev/icons?i=instagram,twitter&theme=dark)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=instagram,twitter,youtube,itch&theme=dark)](https://skillicons.dev)
 
 Feel free to see what i'm currently been working on :)
 
