@@ -14,7 +14,7 @@ Trying to learn Unity/Unreal Engine so i don't feel unemployed.
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ## Contact me:
-[![My Socials](https://skillicons.dev/icons?i=instagram,twitter,youtube,itch&theme=dark)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=instagram,twitter&theme=dark)](https://skillicons.dev)
 
 Feel free to see what i'm currently been working on :)
 
