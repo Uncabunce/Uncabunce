@@ -16,7 +16,7 @@ Trying to learn Unity/Unreal Engine so i don't feel unemployed.
 ## My Contacts:
 [![My Socials](https://skillicons.dev/icons?i=instagram,twitter&theme=dark)](https://skillicons.dev)
 
-### Email me: william.mumtaz.jogja@gmail.com
+Email me: william.mumtaz.jogja@gmail.com
 
 Feel free to see what i'm currently been working on :)
 
