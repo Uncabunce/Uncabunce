@@ -13,7 +13,7 @@ Trying to learn Unity/Unreal Engine so i don't feel unemployed.
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-## Contact me:
+## My Contacts:
 [![My Socials](https://skillicons.dev/icons?i=instagram,twitter&theme=dark)](https://skillicons.dev)
 
 ### Email me: william.mumtaz.jogja@gmail.com
