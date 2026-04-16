@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/a84b740a-9fd6-46f9-a0c9-0864cc296632"/>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/409337d9-6e9b-4536-a545-d8e2d74f65a2" />
 
 ## Hi👋
 
@@ -6,7 +6,8 @@ I'm a Software Engineer student.
 
 Trying to learn Unity/Unreal Engine so i don't feel unemployed.
 > Still stuck working on someone else project and can't do anything about it for now
-<img width="498" height="281" alt="oguri-cap-uma-musumeshock" src="https://github.com/user-attachments/assets/a666a3b5-038e-47e3-b157-b787980eebd4"/>
+<img width="498" height="281" alt="oguri-cap-uma-musumeshock" src="https://github.com/user-attachments/assets/81c76573-4891-417c-a47b-4eee7886ed0f" />
+
 
 ## Techstack:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
